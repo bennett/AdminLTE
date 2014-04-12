@@ -133,6 +133,7 @@ $(function() {
         checkboxClass: 'icheckbox_minimal',
         radioClass: 'iradio_minimal'
     });
+});
 
     /* For demo purposes */
     var demo = $("<div />").css({
